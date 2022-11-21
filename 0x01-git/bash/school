@@ -1,2 +1,5 @@
 #/bin/bash
 echo ALX
+echo The school is open >> bash/school
+
+echo echo The school is open
